@@ -1,0 +1,8 @@
+keyboard
+plyer
+pynput
+PyQt6
+PyQt6-Qt6
+PyQt6_sip
+schedule
+six

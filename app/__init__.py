@@ -1,0 +1,1 @@
+from .mainscreen import MainWindow as MainScreen
