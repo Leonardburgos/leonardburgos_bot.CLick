@@ -19,7 +19,7 @@ Whether you're looking to automate workflows or just experiment with input recor
 ## 📥 **Download and Run**  
 
 1. **Download the EXE**:  
-   - Head over to the [📁 **dist** folder](dist/) and download the `.exe` file.  
+   - Head over to the [📁 **dist** folder](dist/) and download the `dist` folder.  
    - No need for Python or any additional setup! It's a standalone executable.  
 
 2. **Run the Application**:  
@@ -110,14 +110,8 @@ bot-click/
 
 ---
 
-## 📝 **License**  
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
----
-
 ## 💬 **Contact**  
-For any issues or feedback, feel free to reach out!  
+For any feedback, feel free to reach out!  
 You can contact me at: [john.leonard@example.com](mailto:john.leonard@example.com)
 
 ---
