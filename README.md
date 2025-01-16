@@ -112,7 +112,7 @@ bot-click/
 
 ## 💬 **Contact**  
 For any feedback, feel free to reach out!  
-You can contact me at: [john.leonard@example.com](mailto:john.leonard@example.com)
+You can contact me at: [burgosjohnleonard@gmail.com](mailto:burgosjohnleonard@gmail.com)
 
 ---
 
