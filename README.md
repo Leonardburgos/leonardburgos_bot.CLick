@@ -1,5 +1,5 @@
 
-# 🖱️ **bot.Click - Mouse & Keyboard Recorder** 🎹  
+# 🖱️ **bot.Click - Mouse & Keyboard Recorder**   
 
 ![bot.Click Logo](assets/botclick.png)  
 *(Your ultimate productivity companion)*
